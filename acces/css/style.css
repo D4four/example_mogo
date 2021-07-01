@@ -115,6 +115,7 @@ header.active {
 }
 
 .header__logo {
+    cursor: pointer;
     font-size: 30px;
     font-weight: 700;
     color: #fff;
